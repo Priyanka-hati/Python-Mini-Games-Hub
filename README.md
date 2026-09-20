@@ -77,10 +77,6 @@ Run the Python file from the terminal:
 | `Mini_Games_Hub.py` | Complete Python source code |
 | `README.md` | Project documentation |
 
-## 📸 Screenshots
-
-Screenshots of the games and their outputs can be added here to demonstrate the application.
-
 ## 🔮 Future Enhancements
 
 - Add more mini games
