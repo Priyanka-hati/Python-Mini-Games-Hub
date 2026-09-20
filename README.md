@@ -97,7 +97,7 @@ This project was developed as part of a Python programming project to demonstrat
 
 **Priyanka**
 
-Python Learner | Aspiring Software Developer
+Python Learner
 
 ## 📄 License
 
