@@ -113,7 +113,7 @@ The main menu will be displayed.
 Select a game by entering the corresponding option.
 Option 2: Using Python
 
-Make sure Python is installed on your computer.
+Make sure Python is installed  on your computer.
 
 Open a terminal in the project folder and run:
 
